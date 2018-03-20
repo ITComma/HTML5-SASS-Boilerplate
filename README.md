@@ -31,9 +31,11 @@ Integrate SASS workflow with HTML5 Boilerplate
 
 # Customize
 [Custom HTML5 Boilerplay with Initializr](http://www.initializr.com/)
+
 [Custom the Javascript stack](https://github.com/verekia/js-stack-from-scratch)
 
 
 # References
 [HTML5 Boilerplate Docs](https://github.com/h5bp/html5-boilerplate/blob/6.0.1/dist/doc/TOC.md)
+
 [SASS Guide](https://sass-guidelin.es/)
