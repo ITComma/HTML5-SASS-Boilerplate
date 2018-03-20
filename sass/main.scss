@@ -1,0 +1,19 @@
+// ---- ABSTRACTS ----
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+// ---- BASE ----
+@import "base/base";
+@import "base/animation";
+@import "base/typography";
+@import "base/utilities";
+// ---- PAGES ----
+@import "pages/sample";
+// ---- COMPONENTS ----
+@import "components/sample";
+// ---- LAYOUT ----
+@import "layout/sample";
+// ---- THEMES ----
+@import "themes/sample";
+// ---- VENDORS ----
+@import "vendors/sample";
