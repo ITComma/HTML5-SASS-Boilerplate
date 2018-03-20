@@ -20,7 +20,7 @@ Integrate SASS workflow with HTML5 Boilerplate
 
 - step6: go to node_modules/html5-boilerplate/dist/ and pull all the contents to your project's main directory
 
-- step7: add ```<link rel="stylesheet" href="style.css">``` in side the **index.html** (below the main.css)
+- step7: add ```<link rel="stylesheet" href="css/style.css">``` in side the **index.html** (below the main.css)
 
 - step8: ```> npm run start```
 
